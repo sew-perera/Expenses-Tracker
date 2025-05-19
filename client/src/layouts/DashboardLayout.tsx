@@ -56,7 +56,7 @@ const DashboardLayout: React.FC = () => {
           </div>
           
           <div className="flex-shrink-0 px-4 flex items-center">
-            <h1 className="text-2xl font-bold text-blue-600">ExpenseTracker</h1>
+            <h1 className="text-2xl font-bold text-blue-600">SmartSpend</h1>
           </div>
           
           <div className="mt-5 flex-1 h-0 overflow-y-auto">
@@ -98,7 +98,7 @@ const DashboardLayout: React.FC = () => {
           <div className="flex flex-col h-0 flex-1 bg-white border-r border-gray-200">
             <div className="flex-1 flex flex-col pt-5 pb-4 overflow-y-auto">
               <div className="flex items-center flex-shrink-0 px-4">
-                <h1 className="text-2xl font-bold text-blue-600">ExpenseTracker</h1>
+                <h1 className="text-2xl font-bold text-blue-600">SmartSpend</h1>
               </div>
               
               <nav className="mt-8 flex-1 px-4 space-y-2">
